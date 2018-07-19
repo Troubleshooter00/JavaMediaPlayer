@@ -1,0 +1,58 @@
+#plButton{
+    -fx-background-image: url("Images/play-2.png");
+    -fx-background-size: 34 34;
+    -fx-pref-width: 37px;
+    -fx-pref-height: 37px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color:  transparent;
+}
+#paButton{
+    -fx-background-image: url("Images/pause-2.png");
+    -fx-background-size: 34 34;
+    -fx-pref-width: 37px;
+    -fx-pref-height: 37px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color:  transparent;
+}
+#stButton{
+    -fx-background-image: url("Images/stop-2.png");
+    -fx-background-size: 34 34;
+    -fx-pref-width: 37px;
+    -fx-pref-height: 37px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+#fButton{
+    -fx-background-image: url("Images/skip-2.png");
+    -fx-background-size: 34 34;
+    -fx-pref-width: 37px;
+    -fx-pref-height: 37px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+#rButton{
+
+    -fx-background-image: url("Images/previous-2.png");
+    -fx-background-size: 34 34;
+    -fx-pref-width: 37px;
+    -fx-pref-height: 37px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+#topMenu{
+    -fx-background-color: white;
+    -fx-pref-width: 1px;
+}
+#menuFile{
+    -fx-font-color: white;
+}
+#mainController{
+    -fx-background-color: black;
+}
+#timeSlider{
+    -fx-pref-height: 20px;
+    -fx-background-color: transparent;
+    -fx-padding: 0.28553em;
+
+}
+#root { -fx-background-image: url("Images/play-2.png") }
